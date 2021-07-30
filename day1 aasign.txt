@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Table</title>
+
+      
+    </head>
+
+      <body>
+          <table >
+              <tr>
+                  <th>Name</th>
+                  <th>Email</th>
+                  <th>Profile Pic</th>
+              </tr>
+
+              <tr>
+                  <td>bindu</td><br>
+                  <td>chan10k@gmail.com</td><br>
+                  <td> <img src="C:\Users\Bindu\Pictures\Saved Pictures.jpg" height="250" width="250">
+                  </td>
+              </tr>
+          </table>
+
+
+      </body>
+</html>
